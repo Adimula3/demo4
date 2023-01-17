@@ -1,0 +1,21 @@
+.footer {
+    background: #165A4A;
+    height: 600px;
+    width: 100%;
+    margin-top: 100px;
+    color: #FFFFFF!important;
+}
+.footer a {
+    text-decoration: none;
+}
+.footer .fab {
+    color: #FFFFFF;
+}
+.footer .fas {
+    color: #FFFFFF!important;
+}
+@media all and (max-width: 480px) {
+    .footer {
+        height: 1000px;
+    }
+}

@@ -1,0 +1,150 @@
+
+.s-img {
+    margin-top: 50px;
+    margin-left: 150px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+.s-msg {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.s-msg .join h4 {
+    font-size: 32px;
+    font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.s-msg .signIn-google {
+    width: 398px;
+    height: 50px;
+    border: 1px solid #0F15291A;
+    border-radius: 10px;
+    justify-content: center;
+}
+.s-msg .img-fluid {
+    height: 20px;
+    width: 20px;
+    margin: 15px 5px 0 0;
+}
+.s-msg .signIn-google p {
+    margin-top: 12px;
+}
+.s-msg .email_sign {
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.s-msg hr {
+    width: 80px;
+}
+.s-msg .email_sign p {
+    font-size: 15px;
+    color: #8c8f98;
+}
+.s-msg .box-form {
+    transform: rotate(0);
+}
+
+.s-msg .box-form .form-group{
+    margin: 0 0px  25px;
+    text-align: left;
+}
+
+.s-msg .box-form .forgot_link{
+    font-size: 12px;
+    color: #5954A4;
+    text-decoration: none;
+
+}
+
+.s-msg .box-form .text-bold{
+    font-weight: 600;
+}
+.s-msg .box-form .form-group .form-label{
+    margin-left: 22px;
+}
+.s-msg .box-form .form-group .input-group{
+    border: 0px solid #5b5a5c;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: auto;
+    height: 45px;
+    width: 400px;
+
+    box-shadow: 0px 0px 2px 1px rgba(199,199,199,0.75);
+    -webkit-box-shadow: 0px 0px 2px 1px rgba(199,199,199,0.75);
+    -moz-box-shadow: 0px 0px 2px 1px rgba(199,199,199,0.75);
+}
+
+.s-msg .box-form .form-group .input-group .bx{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #949494;
+}
+.s-msg .box-form .form-group .input-group input{
+    padding: 0px 10px;
+    font-size: 14px;
+    border: 1px solid transparent;
+    background: transparent;
+    color:  #101010;
+}
+
+.s-msg .box-form .form-group .input-group input::placeholder{
+    color: #949494;
+}
+
+.s-msg .box-form .form-group .input-group input:focus{
+    box-shadow: none;
+    outline: none;
+}
+
+.s-msg .box-form .form-group .input-group input:active{
+    background: transparent;
+}
+
+.s-msg .box-form .terms{
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.s-msg .box-form  .form-buttons .btn.btn-primary{
+    background: #165A4A;
+    border: 1px solid #165A4A;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+
+.s-msg .box-form .form-buttons .btn.btn-secondary{
+    background: #FFFFFF;
+    border: 1px solid #5b5a5c;
+    color: #101010;
+    box-shadow: 0px 0px 2px 1px rgba(199,199,199,0.75);
+    -webkit-box-shadow: 0px 0px 2px 1px rgba(199,199,199,0.75);
+    -moz-box-shadow: 0px 0px 2px 1px rgba(199,199,199,0.75);
+}
+.s-msg .box-form .form-buttons .btn.btn-secondary .img-fluid{
+    width: 20px;
+    margin-right: 20px;
+}
+
+.s-msg .box-form .form-buttons p{
+    text-align: center;
+    font-size: 12px;
+    color: #101010;
+    font-weight: 500;
+}
+.s-msg .form-buttons .btn-primary {
+    width: 398px;
+    height: 50px;
+}
+.s-msg .s-sign p {
+    font-size: 14px;
+    margin-top: 5px;
+    color: #8c8f98;
+
+}
+.s-msg .modal {
+    margin-top: 200px!important;
+}

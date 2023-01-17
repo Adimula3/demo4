@@ -1,0 +1,153 @@
+
+.support {
+
+}
+.s-content {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.support .s-content h1 {
+    width: 600px;
+    font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 115%;
+    color: #000000;
+}
+.s-content .form-group {
+    margin-top: 50px;
+    width: 600px;
+    height: 60px;
+    border: 1px solid  #FFFFFF;
+    border-radius: 50px;
+
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.47);
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.47);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.47);
+}
+.s-content .form-group input {
+    width: 550px;
+    height: 50px;
+    border: none;
+    margin-left: 2px;
+}
+.s-content .form-group input:focus {
+    outline: none!important;
+    box-shadow: none!important;
+}
+.s-content .btn-primary {
+    border-radius: 100%;
+    margin: 5px 10px 5px 0;
+    background: #165A4A;
+    border: 1px solid #165A4A;
+    width: 50px;
+}
+.s-content .form-control {
+    border-radius: 50px;
+    height: 50px;
+}
+.s-Img {
+   width: 500px;
+    margin: 50px 0 0 0;
+}
+.support .s-box {
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    padding: 30px;
+    margin-right: 20px;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: -2px -1px 20px 2px rgba(0,0,0,0.26);
+    -webkit-box-shadow: -2px -1px 20px 2px rgba(0,0,0,0.26);
+    -moz-box-shadow: -2px -1px 20px 2px rgba(0,0,0,0.26);
+}
+.support .s-box .btn {
+    background: #165A4A;
+    border: 1px solid #165A4A;
+    border-radius: 30px;
+    width: 200px;
+    height: 45px;
+}
+.support .popular-topics {
+    margin-top: 50px;
+}
+.support .accordion {
+    width: 550px;
+    margin-top: 35px;
+    border-bottom: none!important;
+    margin-left: 100px;
+}
+.popular-topics h1 {
+    margin-left: 100px;
+    font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 80%;
+    color: #000000;
+    margin-bottom: 40px;
+}
+.s-more {
+    margin-top: 30px;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: auto;
+    height: 300px;
+    background: #001D16;
+}
+.popular-topics .accordion {
+    width: 550px;
+    margin-top: 35px;
+}
+.popular-topics .accordion .accordion-button {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+    background: none;
+    box-shadow: none;
+}
+
+.recent-post {
+    margin: 50px 0 0 100px;
+}
+.recent-post hr {
+    width: 250px;
+    margin-left: 50px;
+    color: #8c8f98;
+}
+.recent-post h1 {
+    font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 80%;
+    color: #000000;
+    margin-bottom: 60px;
+}
+.recent-post p {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 50%;
+    color: #000000;
+    width: 500px;
+    margin-bottom: 15px;
+}
+.recent-post span {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 50%;
+    color: #8c8f98;
+}
+.support .topics {
+    background: #E2FFF9;
+    padding: 20px;
+}

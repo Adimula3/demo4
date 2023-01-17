@@ -1,0 +1,220 @@
+/*Dashboard header styles*/
+.Header .navbar{
+    background: #19022e;
+    padding: 20px;
+}
+.Header .navbar .navbar-brand{
+    color: #FFFFFF;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin: 0px 30px;
+}
+.Header .navbar .nav-item{
+    color: #FFFFFF;
+    margin: 0px 30px;
+}
+.Header .navbar .nav-item .nav-link{
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.Header .navbar .nav-item .nav-link.current{
+    text-decoration: underline;
+}
+.Header .user-flex{
+    margin-left: 10px;
+}
+.Header .user-flex ul{
+    list-style: none;
+    padding-left: 0px;
+}
+.Header .user-flex ul li .nav-link .bx{
+    padding-right: 10px;
+    font-size: 22px;
+    top: 5px;
+    position: relative;
+}
+.Header .user-flex ul li .nav-link{
+    font-size: 14px;
+    color: #8F9400!important;
+    font-weight: 600;
+    text-transform: lowercase;
+    padding: 0px 10px 5px;
+    text-decoration: none;
+}
+.Header .user-flex ul li .nav-link:hover{
+    background: #CBC3E3;
+    border-radius: 5px;
+}
+
+.Header .user-flex .dropdown-menu{
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 2px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+
+    box-shadow: 0px 5px 7px 2px rgba(209,209,209,0.75);
+    -webkit-box-shadow: 0px 5px 7px 2px rgba(209,209,209,0.75);
+    -moz-box-shadow: 0px 5px 7px 2px rgba(209,209,209,0.75);
+
+;
+}
+.Header .user-flex .dropdown-menu .transfer-id{
+    background: #CBC3E3;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.Header .user-flex .dropdown-menu .transfer-id p{
+    text-align: center;
+    font-size: 12px;
+    color: #5b5a5c;
+    font-weight: 600;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+.Header .user-flex .dropdown-menu .transfer-id h5{
+    font-size: 18px;
+    color: #101010;
+    font-weight: 600;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.Header .user-flex .dropdown-menu .transfer-id h5 .btn{
+    padding: 0px;
+    border: 1px solid transparent;
+    font-size: 18px;
+    color: #101010;
+}
+.Header .user-flex .dropdown-menu .dropdown-item{
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Header .user-flex .dropdown-menu .dropdown-item:hover{
+    background: #CBC3E3;
+    border-radius: 5px;
+}
+.Header .user-flex .dropdown-menu .dropdown-item .bx{
+    padding-right: 10px;
+    font-size: 24px;
+    position: relative;
+    top: 5px;
+}
+.Header .user-flex .dropdown-menu .dropdown-item.log-out{
+    color: #f30000;
+}
+
+/*Crypto Dashboard card styles*/
+
+.crypto-balance .fiat-card{
+    padding: 30px 20px 20px;
+}
+
+.fiat-card .header{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.fiat-card .header .balance-header{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+}
+.fiat-card .header .balance-header .image-section {
+    width: 45px;
+}
+.fiat-card .header .balance-header .image-section .img-fluid{
+    width: 35px;
+}
+.fiat-card .header .balance-header .balance-text{
+    margin: 0;
+}
+.fiat-card .header .balance-header .balance-text p{
+    font-size: 12px;
+    font-weight: 500;
+    color: #949494;
+    margin: 0;
+    padding: 0;
+}
+.fiat-card .header .balance-header .balance-text h3{
+    font-size: 22px;
+    font-weight: 600;
+    color: #101010;
+}
+.fiat-card .header .info .bx{
+    font-size: 20px;
+    color: #5954A4;
+    cursor: pointer;
+}
+.fiat-card .action-button{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+}
+.fiat-card .action-button .btn{
+    width: 100%;
+    margin-right: 10px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.fiat-card .action-button .btn.btn-primary{
+    background: #5954A4;
+    border: 1px solid #5954A4;
+    color: #FFFFFF;
+}
+
+.fiat-card .action-button .btn.btn-outline-primary{
+    background: #CBC3E3;
+    border: 1px solid #CBC3E3;
+    color: #5954A4;
+}
+.fiat-card .action-button .btn.btn-primary:hover{
+    background: #6e6aa3;
+}
+.fiat-card .action-button .btn.btn-outline-primary:hover{
+    background: #cfcedb;
+    border: 1px solid #CBC3E3;
+}
+.fiat-card .chart-footer{
+    margin-top: 25px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    justify-content: space-between;
+}
+.fiat-card .chart-footer h6{
+    font-size: 13px;
+    color: #101010;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.fiat-card .chart-footer p{
+    margin-top: 0;
+    padding-top: 0;
+    width: 100%;
+    font-size: 11px;
+    color: #949494;
+    font-weight: 400;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.fiat-card .chart-footer p .chart-status{
+    color: #33a112;
+    font-weight: 600;
+}
+.fiat-card .chart-footer .chart-section{
+    width: 55%;
+}
+.fiat-card .chart-footer .chart-section .img-fluid{
+    width: 100%;
+}

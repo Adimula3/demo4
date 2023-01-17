@@ -1,0 +1,40 @@
+
+.navbar {
+    background: transparent;
+}
+.navbar-brand {
+    margin-left: 50px;
+    font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    color: #000000;
+
+}
+.navbar-nav {
+    margin-left: 70px;
+}
+.nav-item {
+    margin-left: 50px;
+}
+.nav-link {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.navbar .btn {
+    margin-right: 200px;
+    background: #165A4A;
+    padding: 10px;
+    border: 1px solid #165A4A;
+    width: 100px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}

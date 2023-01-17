@@ -1,0 +1,246 @@
+.ref-program {
+    margin-top: 50px;
+}
+.ref-program .title {
+    margin: 80px 0 50px 50px;
+    font-size: 50px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    text-align: left;
+}
+
+.ref-program .ref-left {
+    margin-top: 0;
+}
+.ref-program .ref-right {
+    margin-left: 130px;
+    margin-top: 120px;
+}
+ .ref-program .money-income {
+    width: 500px;
+}
+.ref-program .ref-details .commission-details {
+    width: 500px;
+    text-align: left;
+    font-size: 28px;
+    font-weight: 400;
+    color: #101010;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    line-height: 150%;
+}
+.ref-program .ref-details .btn-dark{
+    background: #165A4A;
+    padding: 10px;
+    margin-top: 10px;
+}
+.ref-program .ref-details {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.ref-details p {
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.ref-program span {
+    font-weight: bold;
+}
+
+
+.ref-program .process h1 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 100%;
+    text-align: center;
+}
+.ref-program .process .row-process {
+    margin: 50px 0 0 150px;
+}
+.ref-program .process h5 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: left;
+}
+.ref-program .process .process-details {
+    width: 250px;
+    font-size: 15px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.ref-program .process .ref-img {
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.ref-program .profit-table {
+    margin-top: 80px;
+}
+.ref-program .profit-table .title {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+.ref-program .profit-table .profit-table-link {
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    color: #5954A4!important;
+}
+.ref-program .profit-table .profit-table-link:hover {
+    font-weight: 600;
+    cursor: pointer;
+    color: #101010;
+}
+.ref-program .profit-table .profit-table-link:focus {
+    font-weight: 600;
+    cursor: pointer;
+    color: #101010;
+    text-decoration: underline;
+}
+.ref-program .profit-table .profit-table-link {
+    font-weight: 600;
+    cursor: pointer;
+    color: #101010;
+    text-decoration: underline;
+}
+.ref-program .profit-table .profit-table-link .profit-links {
+    color: #101010;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.ref-program .profit-table table {
+    width: 1000px;
+    margin: auto;
+}
+.ref-program .profit-table th {
+    text-align: left;
+}
+.ref-program .profit-table .profit-table-commission {
+    width: 250px;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 400;
+}
+.ref-program .profit-table td {
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+    padding-top: 31px;
+}
+.ref-program .advice {
+    margin-top: 100px;
+}
+.ref-program .advice .advice-links {
+    color: #101010;
+    text-decoration: none;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.ref-program .advice .advice-details {
+    width: 680px;
+    text-align: left;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    color: #000000;
+}
+.ref-program .advice span {
+    font-weight: bold;
+}
+.ref-program .advice .advice-content {
+    margin-left: 100px;
+}
+.ref-program .advice-content2 {
+    background: #165A4A;
+    color: #FFFFFF;
+    width: 470px;
+    height: 220px;
+    padding: 10px;
+
+}
+.ref-program .advice-content2 p {
+    width: 450px;
+    text-align: left;
+    font-size: 14px;
+    padding: 10px;
+
+}
+.ref-program .advice-content2 h6 {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 10px;
+}
+.ref-program .blogger {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.ref-program .influencer {
+    height: 400px;
+    margin-left: 0;
+}
+
+.ref-program .blogger .message {
+    width: 730px;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.ref-program .blogger p {
+    font-size: 24px;
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.ref-program .blogger .title {
+    font-size: 60px;
+    text-align: left;
+    margin-bottom: 40px;
+    color: #101010;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+.ref-program .QA {
+    margin-top: 100px;
+}
+.ref-program .QA h1 {
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.ref-program .QA .accordion{
+    width: 900px;
+    margin: auto;
+    background: #B4A1C9!important;
+}
+.ref-program .QA .accordion .accordion-body {
+    text-align: left;
+    padding: 10px;
+    box-shadow: none;
+}
+.ref-program .QA .accordion .accordion-button {
+    box-shadow: none;
+}
+

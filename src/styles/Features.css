@@ -1,0 +1,179 @@
+
+.features {
+    background: #F7F7F7;
+    height: 990px;
+    width: auto;
+
+}
+.features-img {
+    flex-direction: column;
+    margin: 50px 0 0 100px;
+}
+.features-img img {
+    height: 250px;
+    width: 250px;
+    margin-bottom: 30px;
+
+}
+.features-img .f2 {
+    text-align: end;
+}
+.features-img  .p-1 {
+
+    margin-top: 50px;
+}
+.features-img .image2 {
+
+}
+.features-msg {
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 500px;
+}
+.features-msg h1 {
+    color: #000000;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.features-msg p {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+    width: 600px;
+    margin-top: 40px;
+}
+.features-msg .btn {
+    padding: 10px;
+    width: 150px;
+    background: #165A4A;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 50px;
+}
+
+
+
+.subscription.bg-white {
+    background: none;
+}
+
+.subscription .bg-white {
+    background-color: #001D16!important;
+}
+
+.subscription.bg-white .subscription-wrapper {
+    background: #001D16;
+}
+
+.subscription-wrapper {
+    border-radius: 0% 5% 10% 3%/10% 20% 0% 17%;
+    -webkit-transform: perspective(1800px) rotateY(20deg) skewY(1deg) translateX(50px);
+    transform: perspective(1800px) rotateY(20deg) skewY(1deg) translateX(50px);
+    padding: 70px 50px;
+    width: 100%;
+    background: linear-gradient(80deg, #0030cc 0%, #00a4db 100%);
+
+
+}
+
+.subscription-wrapper {
+    box-shadow: 0px 15px 39px 0px rgba(8, 18, 109, 0.1) !important;
+}
+
+.subscription-content {
+    -webkit-transform: skewY(-1deg);
+    transform: skewY(-1deg);
+}
+
+ h3, .h3 {
+    font-size: 30px;
+     color: #ffffff;
+}
+
+.subscription.flex-fill {
+    -ms-flex: 1 1 auto!important;
+    flex: 1 1 auto!important;
+}
+
+.subscription.bg-white .form-control {
+    border: 2px solid #ebebeb !important;
+}
+
+.subscription-wrapper .form-control {
+    height: 60px;
+    background: #f1f1f1;
+    border-radius: 45px;
+}
+
+.subscription-wrapper .form-control:focus {
+    background: #f1f1f1;
+    outline: 0;
+    box-shadow: none;
+}
+
+.subscription-wrapper .btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.subscription.btn-primary {
+    border: 0;
+    color: #000000;
+}
+
+.subscription-wrapper .btn {
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    padding: 14px 35px;
+    font-weight: 500;
+    border: 1px solid;
+    position: relative;
+    z-index: 1;
+    transition: .3s ease-in;
+    overflow: hidden;
+    background: #ffffff;
+    color: #000000;
+}
+.giftCards {
+    margin-bottom: 200px;
+    margin-top: 80px;
+}
+.giftCards .g-head {
+    width: 700px;
+    margin-left: 28%;
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.gift-card {
+    width: auto;
+    height: 450px;
+    background: #E2FFF9;
+}
+.gift-card p {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+    width: 600px;
+    margin-top: 80px;
+}
+.gift-card img {
+    height: 400px;
+    width: 600px;
+    margin-left: 100px;
+}

@@ -1,0 +1,163 @@
+.Process {
+    height: 900px;
+    width: auto;
+    background: #001D16;
+    margin-bottom: 600px;
+}
+.Process h1 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 100%;
+    color: #ffffff;
+    padding: 100px 0 0 50px;
+}
+.p-message p{
+    color: #ffffff;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    margin: 100px 70px 0 0;
+}
+.p-message .btn {
+    width: 150px;
+    background: #ffffff;
+    color: #000000;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.trade .trade-image {
+    padding: 10px;
+    border: 1px solid #fff;
+    background: #fff;
+    margin-left: 100px;
+    margin-top: 180px;
+
+
+}
+.trade-msg  {
+    margin-top: 270px;
+}
+.trade-msg h1 {
+    color: #000000;
+    text-align: left;
+    font-size: 60px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.trade-msg p {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    color: #000000;
+    width: 640px;
+    margin-top: 40px;
+}
+.trade-buttons {
+   margin-top: 40px;
+}
+.trade-buttons .btn {
+    background: #165A4A;
+    color: #ffffff;
+    padding: 15px;
+    margin-right: 20px;
+    width: 150px;
+}
+.payment-options {
+    margin-left: 70px;
+    margin-bottom: 100px;
+}
+.payment-options h1 {
+    color: #000000;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.payment-options .payments {
+    margin-top: 50px;
+}
+.payment-options .payments .payment-method-visa {
+    margin-right: 50px;
+}
+.payment-method-visa .visa {
+    padding: 25px;
+    box-shadow: -1px -3px 25px -9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px -3px 25px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px -3px 25px -9px rgba(0,0,0,0.75);
+}
+.payment-method-vexi .logo {
+    padding: 35px;
+    box-shadow: -1px -3px 25px -9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px -3px 25px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px -3px 25px -9px rgba(0,0,0,0.75);
+}
+.payment-method-visa p {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.payment-method-vexi p {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #000000;
+}
+.veximo-code-content h4 {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 100%;
+    color: #000000;
+    margin-top: 15px;
+}
+.veximo-code-content p {
+    width: 600px;
+    margin-top: 30px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.veximo-code-content .payment-buttons {
+    margin-top: 40px;
+}
+.veximo-code-content .payment-buttons .btn-primary {
+    width: 200px;
+    height: 50px;
+    background: #165A4A;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    border: 1px solid #165A4A;
+    margin-right: 30px;
+}
+.veximo-code-content .payment-buttons .btn-light-purple {
+    width: 200px;
+    background: #165A4A;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    border: 1px solid  #165A4A;
+    color: #ffff;
+}
+.payment-options .pay-img {
+    margin: 25px 20px 0 0;
+}
+

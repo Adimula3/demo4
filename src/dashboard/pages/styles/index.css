@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+body{
+    background: #f7f8fb;
+    font-family: 'Poppins', sans-serif;
+}
+.dashboard-home{
+    margin: 40px 30px;
+}
+.assets-balance{
+    margin-top: 20px;
+}
+.assets-balance h6{
+    font-weight: 500;
+    font-size: 14px;
+    color: #5b5a5c;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.assets-balance h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #101010;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.assets-balance p{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 13px;
+    color: #5b5a5c;
+}
+
+.fiat-balance{
+    margin-top: 4%;
+}
+.fiat-balance h6{
+    font-size: 15px;
+    font-weight: 600;
+}
+.crypto-balance h6{
+    font-size: 15px;
+    font-weight: 600;
+}
+.fiat-card{
+    margin-top: 20px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    padding: 30px 20px;
+
+    box-shadow: 0px 0px 8px 2px rgba(209,209,209,0.75);
+    -webkit-box-shadow: 0px 0px 8px 2px rgba(209,209,209,0.75);
+    -moz-box-shadow: 0px 0px 8px 2px rgba(209,209,209,0.75);
+}
+
+.crypto-balance{
+    margin-top: 4%;
+}
+
+/*assets styles section*/
+.protect-assets-error{
+    background: #ffadad;
+    color: #f30000;
+    text-align: center;
+    padding: 8px 0 6px;
+
+}
+.protect-assets-error p{
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+.protect-assets-error span{
+    cursor: pointer;
+}
+
+.sidebar .total-asset-card{
+    background: #FFFFFF;
+    border-radius: 3px;
+    padding:30px 20px;
+
+    box-shadow: 0px 0px 5px 2px rgba(224,224,224,0.75);
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(224,224,224,0.75);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(224,224,224,0.75);
+}
+.sidebar .total-asset-card h4{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.sidebar .total-asset-card .total-balance{
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.sidebar .total-asset-card .total-balance h5{
+    font-size: 24px;
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+.sidebar .total-asset-card .total-balance h5 .bx{
+    color: #5954A4;
+    top: 5px;
+    position: relative;
+}
+.sidebar .total-asset-card p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #949494;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar .my-assets{
+    margin-top: 30px;
+}
+.sidebar .my-assets h3{
+    font-size: 15px;
+    font-weight: 600;
+    color: #101010;
+    margin-left: 20px;
+}
+.sidebar .my-assets .history-card{
+    margin-top: 20px;
+    background: #FFFFFF;
+
+    box-shadow: 0px 0px 5px 2px rgba(224,224,224,0.75);
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(224,224,224,0.75);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(224,224,224,0.75);
+}
+.sidebar .my-assets .history-card .history-card-header{
+    text-align: center;
+    padding: 20px 10px;
+    height: 500px;
+}
+.sidebar .my-assets .history-card .history-card-header h4{
+    font-size: 14px;
+    font-weight: 400;
+}
