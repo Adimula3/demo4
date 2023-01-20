@@ -269,3 +269,50 @@
 .c3 {
     position: absolute;
 }
+@media all and (max-width: 480px) {
+
+    .home-left-hero {
+        margin: 50px 5px 0 20px;
+    }
+    .Home h1 {
+        font-size: 56px;
+    }
+    .Home p {
+        font-size: 18px;
+        width: 350px;
+        margin-top: 20px;
+    }
+    .google-play {
+        padding: 10px;
+        width: 150px;
+        font-size: 14px;
+    }
+    .app-store {
+        padding: 10px;
+        width: 150px;
+        font-size: 14px;
+    }
+    .auth-box {
+        display: none;
+    }
+    .Home .breadcrumb {
+        height: 150px;
+        margin-top: 40px;
+    }
+    .marquee {
+        height: 30px;
+    }
+    .breadcrumb .coin-logos {
+        justify-content: space-evenly;
+        margin-top: 40px;
+        margin-left: 35px;
+    }
+    .breadcrumb .coin-logos .coin-box {
+        margin-right: 50px;
+    }
+    .breadcrumb .coin-logos .coins {
+        height: 40px;
+        width: 40px;
+        margin-left: 0;
+    }
+}

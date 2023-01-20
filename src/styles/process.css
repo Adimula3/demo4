@@ -37,7 +37,6 @@
     margin-left: 100px;
     margin-top: 180px;
 
-
 }
 .trade-msg  {
     margin-top: 270px;
@@ -161,3 +160,86 @@
     margin: 25px 20px 0 0;
 }
 
+@media all and (max-width: 480px) {
+    .Process {
+        height: 650px;
+    }
+    .Process h1 {
+        font-size: 40px;
+        padding: 80px 0 0 20px;
+    }
+    .p-message p{
+        font-size: 18px;
+        margin: 50px 20px 0 20px;
+    }
+    .p-message .btn {
+        width: 150px;
+        font-size: 14px;
+        padding: 10px;
+        margin: 40px 30px 0 120px;
+    }
+    .trade .trade-image {
+        padding: 10px;
+        margin: 50px 0 0 45px;
+        width: 300px;
+    }
+    .trade-msg  {
+        margin-top: 0;
+    }
+    .trade-msg h1 {
+        text-align: center;
+        font-size: 40px;
+    }
+    .trade-msg p {
+        font-size: 18px;
+        width: 350px;
+        margin: 30px 0 0 20px;
+        text-align: center;
+    }
+    .trade-buttons {
+        margin-left: 35px;
+    }
+    .trade-buttons .btn {
+        padding: 10px;
+        margin-right: 20px;
+        font-size: 14px;
+    }
+    .payment-options {
+       margin: 20px 0 0 0;
+    }
+    .payment-options h1 {
+        text-align: center;
+        font-size: 30px;
+        padding: 40px 5px 0 5px;
+    }
+    .payment-options .payments {
+       margin: 50px 0 0 65px;
+    }
+    .veximo-code-content h4 {
+        font-size: 28px;
+        margin: 15px 0 0 0;
+        text-align: center;
+    }
+    .veximo-code-content p {
+        width: 370px;
+        margin-top: 30px;
+        font-size: 18px;
+        padding: 0 0 0 30px;
+        text-align: center;
+    }
+    .veximo-code-content .payment-buttons {
+        margin: 40px 0 0 30px;
+    }
+    .veximo-code-content .payment-buttons .btn-primary {
+        width: 150px;
+        height: 45px;
+        font-size: 14px;
+    }
+    .veximo-code-content .payment-buttons .btn-light-purple {
+        width: 150px;
+        font-size: 14px;
+    }
+    .payment-options .pay-img {
+        margin: 25px 20px 0 20px;
+    }
+}

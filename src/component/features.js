@@ -18,8 +18,8 @@ const Features = () => {
                                   That's why we offer 24/7 customer support to ensure that our users have
                                   access to assistance whenever they need it..</p>
                           </div>
-                          <h4 className="f2">Secure</h4>
-                          <div className="d-flex">
+                          <h4 className="f1">Secure</h4>
+                          <div className="secure f22 d-flex">
                               <p className="p-1">Advanced security measures to protect users' assets.
                                   these include two-factor authentication,
                                   secure storage of digital assets, and regular audits to ensure
@@ -28,7 +28,7 @@ const Features = () => {
                               <img className="image3" src={support} alt=""/>
                           </div>
                           <h4 className="f3">Best Rates</h4>
-                          <div className="d-flex">
+                          <div className="secure d-flex">
                               <img className="image3" src={support1} alt=""/>
                               <p className="p-1">We continuously monitor the prices of various cryptocurrencies
                                   and adjust our rates accordingly to ensure that our users are getting
@@ -70,7 +70,7 @@ const Features = () => {
               <div className="gift-card">
                   <Row>
                       <Col lg={6}>
-                          <img src={hand} alt="" />
+                          <img src={hand} alt="" className="hand"/>
                       </Col>
                       <Col lg={6}>
                           <p>At our exchange, we are pleased to offer the convenience of using gift cards to purchase

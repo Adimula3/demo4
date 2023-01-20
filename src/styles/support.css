@@ -151,3 +151,58 @@
     background: #E2FFF9;
     padding: 20px;
 }
+@media all and (max-width: 480px) {
+    .s-content {
+        margin-top: 20px;
+        margin-left: 15px;
+    }
+    .support .s-content h1 {
+        width: 350px;
+        font-size: 40px;
+    }
+    .s-content .form-group {
+        margin-top: 50px;
+        width: 350px;
+        height: 60px;
+        border: 1px solid  #FFFFFF;
+        border-radius: 50px;
+    }
+    .s-Img {
+       display: none;
+    }
+    .popular-topics h1 {
+        margin-left: 0;
+        font-size: 40px;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .support .accordion {
+        width: 350px;
+        margin-top: 35px;
+        border-bottom: none!important;
+        margin-left: 0;
+    }
+    .topics {
+        display: flex;
+        flex-direction: column;
+    }
+    .recent-post {
+        margin: 50px 0 0 0;
+    }
+    .recent-post h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .recent-post p {
+        font-size: 18px;
+        line-height: 100%;
+        width: 350px;
+        margin-bottom: 15px;
+    }
+    .s-more {
+        overflow-x: scroll;
+        white-space: nowrap;
+        display: flex;
+    }
+
+}

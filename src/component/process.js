@@ -85,11 +85,6 @@ const Process = () => {
                   <Col lg={5}>
                       <img src={illustartion1} alt=""  className="pay-img"/>
                   </Col>
-                  <div className=" dope d-flex">
-                      <hr></hr>
-                      <p>im good to go </p>
-                      <hr></hr>
-                  </div>
 
               </Row>
 

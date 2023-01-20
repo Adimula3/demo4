@@ -5,6 +5,8 @@ import {Col, Row} from "react-bootstrap";
 import supportImage from '../assets/Service 24_7-amico.svg';
 import {Link} from "react-router-dom";
 import Footer from "../component/footer";
+
+
 const Support = () => {
 
     return (
@@ -27,6 +29,7 @@ const Support = () => {
                         <img src={supportImage} alt="" className="s-Img"/>
                     </Col>
                 </Row>
+
                 <div className="s-more d-flex">
                     <div className="s-box">
                         <div className="knowledge-base">
